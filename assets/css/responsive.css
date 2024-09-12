@@ -1,0 +1,152 @@
+
+@media (max-width: 1380.7px) {
+    .slider_img img {
+        width: 100%;
+    }
+    
+}
+@media (max-width: 1200.98px) {
+    .discovering .img_500 {
+        width: 100%;
+    }
+    .header_slide {
+        padding-top: 190px;
+    }
+}
+    @media (max-width: 1225.98px) {
+    section {
+        padding: 70px 40px;
+    }
+    .slider_img img {
+        width: 100%;
+    }
+}
+/* Display extra links on small screens */
+@media (max-width: 1199.7px) { /* Change the size as per your needs */
+    .navbar-toggler {
+        margin-top: 6px;
+        background-color: #3371bb;
+    }
+    .offcanvas-body li {
+        display: block;
+    }
+    .offcanvas-body li .active {
+        color: #0b3f4e !important;
+    }
+    .offcanvas-body li a{
+        color: #1e293b;
+        font-weight: 500;
+    }
+    .extra-links {
+        display: block !important;
+    }
+    .nav_link_li{
+        display: none !important;
+    }
+}
+@media (max-width: 998.7px) {
+    .header_slide h1 {      
+    font-size: 50px;
+    font-weight: 600;
+    line-height: normal;
+    }
+    h2 { 
+        font-size: 40px; 
+        line-height: normal;
+    }
+
+}
+@media (max-width: 991.7px) {
+    .top_mini_links {
+        text-align: center;
+    }
+    .top_mini_links .row { 
+    }
+    .header {
+        margin-top: -170px;
+    }
+    .container-md, .container-sm, .container {
+        max-width: 95%;
+    }
+    .order1 {
+        order: 2;
+        margin-bottom: 20px;
+    }
+    .order2 {
+        order: 1;
+        margin-bottom: 20px;
+    }
+    .about_author { 
+        padding: 30px;
+    }
+    .author_img {
+        margin-bottom: 30px;
+    }
+    .author_img img {
+        padding-right: 0px;
+    }
+    .footer .col-md-12 {
+        margin-bottom: 20px;
+    }
+    .contact {
+        text-align: center;
+    }
+}
+@media (max-width: 767.7px) {
+    .why_choose{
+        text-align: center;
+    }
+    .why_choose .col-md-4{
+        margin-bottom: 40px;
+    }
+}
+@media (max-width: 552.7px) {
+    .img_500{
+        width: 100%;
+    }
+    .copyright {
+        padding: 20px;
+    }
+    section {
+        padding: 30px 20px;
+    }
+}
+@media (max-width: 460.7px) {
+    h2 {
+        font-size: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .header_slide h1 {
+        font-size: 30px;
+        font-weight: 500; 
+    }
+}
+
+@media (max-width: 415.7px) {
+    .header {
+        margin-top: -190px;
+    }
+}
+@media (max-width: 350.7px) {
+    .header {
+        margin-top: -210px;
+    }
+    .header_slide {
+        padding-top: 220px;
+    }
+    section {
+        padding: 30px 20px;
+    }
+    .about_author {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 327.7px) {
+
+.navbar-brand img {
+    width: 190px;
+}
+}
